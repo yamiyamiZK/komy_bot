@@ -17,3 +17,4 @@ A Komy funciona mais em dias de Segundas - Quartas, Sábados e Domingos, pois us
 conforme vamos utilizando ela anotamos os erros e recebemos os feedbacks para concertar o erro mais tarde!
 
 se tem alguma sugestão de comandos ou coisas que quer que a Komy faça entrem em contato com ums dos dv's no discord
+obrigado por lerem e se divirtam com nossa bot
